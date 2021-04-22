@@ -2,7 +2,7 @@
 
 # StoryPlay hybrid application in ReactNative
 
-reactNative, GraphQL 
+reactNative, ApolloClient, GraphQL 
 
 <img src="storyplay/demo1.png" width="200">
 <img src="storyplay/demo2.png" width="200">
